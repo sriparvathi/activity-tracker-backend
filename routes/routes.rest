@@ -1,0 +1,10 @@
+POST http://localhost:3001/exercises/add
+Content-Type: application/json
+
+{
+"username": "bannu",
+ "description": "dance",
+ "duration": 30,
+ "date": "2023-01-25T06:58:35.747Z"
+}
+
